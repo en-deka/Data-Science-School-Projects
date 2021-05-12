@@ -1,0 +1,67 @@
+County Name,State,Estimated hesitant,Estimated strongly hesitant,Social Vulnerability Index (SVI),SVI Category,CVAC level of concern for vaccination rollout,CVAC Level Of Concern,Percent adults fully vaccinated against COVID-19,Percent Hispanic,Percent non-Hispanic American Indian/Alaska Native,Percent non-Hispanic Asian,Percent non-Hispanic Black,Percent non-Hispanic Native Hawaiian/Pacific Islander
+"Baker County, Florida",FLORIDA,0.23,0.1,0.68,High Concern,0.74,High Concern,0.122,0.0256,0.0051,0.0061,0.1332,0.0004
+"Bay County, Florida",FLORIDA,0.23,0.1,0.61,High Concern,0.67,High Concern,0.178,0.0649,0.0028,0.0232,0.1083,0.001
+"Bradford County, Florida",FLORIDA,0.26,0.12,0.93,Very High Concern,0.95,Very High Concern,0.132,0.0416,0.0036,0.0061,0.2016,0
+"Brevard County, Florida",FLORIDA,0.19,0.09,0.37,Low Concern,0.48,Moderate Concern,0.187,0.1029,0.0027,0.0233,0.0928,0.0009
+"Broward County, Florida",FLORIDA,0.2,0.09,0.58,Moderate Concern,0.71,High Concern,0.183,0.2981,0.0017,0.0351,0.2757,0.0005
+"Calhoun County, Florida",FLORIDA,0.25,0.12,0.84,Very High Concern,0.98,Very High Concern,0.16,0.0575,0.0107,0.0011,0.1299,0
+"Charlotte County, Florida",FLORIDA,0.18,0.08,0.49,Moderate Concern,0.52,Moderate Concern,0.235,0.0728,0.0028,0.0129,0.0535,0.0007
+"Citrus County, Florida",FLORIDA,0.2,0.09,0.6,High Concern,0.65,High Concern,0.227,0.0569,0.0023,0.0171,0.028,0.0003
+"Clay County, Florida",FLORIDA,0.21,0.09,0.38,Low Concern,0.49,Moderate Concern,0.162,0.0993,0.0011,0.0276,0.1028,0.0005
+"Collier County, Florida",FLORIDA,0.16,0.08,0.46,Moderate Concern,0.46,Moderate Concern,0.251,0.2792,0.0017,0.0129,0.0668,0
+"Columbia County, Florida",FLORIDA,0.26,0.12,0.86,Very High Concern,0.74,High Concern,0.162,0.063,0.0021,0.0106,0.1779,0
+"DeSoto County, Florida",FLORIDA,0.22,0.1,0.96,Very High Concern,0.95,Very High Concern,0.117,0.3157,0.0008,0.0022,0.1251,0.0011
+"Dixie County, Florida",FLORIDA,0.26,0.12,0.9,Very High Concern,0.94,Very High Concern,0.137,0.0406,0.0001,0.0023,0.0876,0.0004
+"Duval County, Florida",FLORIDA,0.23,0.1,0.69,High Concern,0.71,High Concern,0.203,0.0974,0.0021,0.0457,0.2916,0.0006
+"Escambia County, Florida",FLORIDA,0.24,0.1,0.49,Moderate Concern,0.59,Moderate Concern,0.189,0.0568,0.0038,0.0287,0.2175,0.0013
+"Flagler County, Florida",FLORIDA,0.18,0.08,0.28,Low Concern,0.67,High Concern,0.245,0.1043,0.0028,0.0257,0.0991,0.0009
+"Franklin County, Florida",FLORIDA,0.25,0.12,0.81,Very High Concern,0.77,High Concern,0.223,0.0545,0,0.0035,0.1378,0.0036
+"Gadsden County, Florida",FLORIDA,0.25,0.12,0.99,Very High Concern,0.97,Very High Concern,0.214,0.104,0.001,0.0018,0.5578,0.0004
+"Gilchrist County, Florida",FLORIDA,0.26,0.12,0.76,High Concern,0.9,Very High Concern,0.129,0.0584,0.0003,0.0022,0.0568,0.0001
+"Glades County, Florida",FLORIDA,0.23,0.11,0.9,Very High Concern,0.98,Very High Concern,0.096,0.2126,0.0384,0.008,0.1296,0
+"Gulf County, Florida",FLORIDA,0.25,0.12,0.59,Moderate Concern,0.7,High Concern,0.218,0.0441,0.0039,0.0055,0.1658,0
+"Hamilton County, Florida",FLORIDA,0.26,0.12,0.99,Very High Concern,0.99,Very High Concern,0.141,0.0943,0.006,0.0014,0.3365,0
+"Hardee County, Florida",FLORIDA,0.22,0.1,0.98,Very High Concern,0.93,Very High Concern,0.101,0.436,0.0006,0.0086,0.0744,0.0015
+"Hendry County, Florida",FLORIDA,0.23,0.11,0.99,Very High Concern,0.97,Very High Concern,0.101,0.5374,0.0137,0.0087,0.1101,0
+"Hernando County, Florida",FLORIDA,0.21,0.1,0.55,Moderate Concern,0.57,Moderate Concern,0.189,0.1351,0.003,0.0118,0.0489,0.0003
+"Highlands County, Florida",FLORIDA,0.22,0.1,0.87,Very High Concern,0.82,Very High Concern,0.144,0.2008,0.0018,0.014,0.094,0
+"Hillsborough County, Florida",FLORIDA,0.21,0.09,0.67,High Concern,0.67,High Concern,0.153,0.2867,0.0017,0.04,0.1559,0.0006
+"Holmes County, Florida",FLORIDA,0.23,0.1,0.93,Very High Concern,0.94,Very High Concern,0.127,0.0281,0.0137,0.0059,0.0687,0.0031
+"Indian River County, Florida",FLORIDA,0.19,0.09,0.4,Low Concern,0.51,Moderate Concern,0.274,0.1238,0.0011,0.013,0.0882,0.0004
+"Jackson County, Florida",FLORIDA,0.25,0.12,0.96,Very High Concern,0.94,Very High Concern,0.183,0.0486,0.0065,0.0029,0.2651,0.0016
+"Jefferson County, Florida",FLORIDA,0.25,0.12,0.57,Moderate Concern,0.8,High Concern,0.306,0.0412,0.005,0.0028,0.3435,0
+"Lafayette County, Florida",FLORIDA,0.26,0.12,0.98,Very High Concern,0.96,Very High Concern,0.172,0.1575,0.0015,0,0.159,0.0032
+"Lake County, Florida",FLORIDA,0.19,0.09,0.6,High Concern,0.57,Moderate Concern,0.235,0.156,0.0039,0.0197,0.1016,0.0003
+"Lee County, Florida",FLORIDA,0.18,0.08,0.55,Moderate Concern,0.48,Moderate Concern,0.189,0.2138,0.0017,0.016,0.0815,0.0004
+"Leon County, Florida",FLORIDA,0.2,0.08,0.49,Moderate Concern,0.59,Moderate Concern,0.198,0.0641,0.0017,0.0349,0.3057,0.0002
+"Levy County, Florida",FLORIDA,0.26,0.12,0.78,High Concern,0.9,Very High Concern,0.153,0.0839,0.0009,0.0086,0.0867,0
+"Liberty County, Florida",FLORIDA,0.25,0.12,0.83,Very High Concern,0.91,Very High Concern,0.141,0.047,0.0123,0.0024,0.156,0
+"Madison County, Florida",FLORIDA,0.26,0.12,0.96,Very High Concern,0.98,Very High Concern,0.188,0.0551,0.0034,0.0088,0.3821,0.0003
+"Manatee County, Florida",FLORIDA,0.19,0.09,0.52,Moderate Concern,0.41,Moderate Concern,0.172,0.1641,0.002,0.0205,0.0851,0.0003
+"Marion County, Florida",FLORIDA,0.21,0.1,0.75,High Concern,0.71,High Concern,0.206,0.132,0.0026,0.0143,0.1248,0.0004
+"Martin County, Florida",FLORIDA,0.16,0.07,0.4,Low Concern,0.43,Moderate Concern,0.263,0.1362,0.0023,0.0137,0.053,0.0007
+"Miami-Dade County, Florida",FLORIDA,0.19,0.09,0.82,Very High Concern,0.82,Very High Concern,0.18,0.6849,0.0008,0.0151,0.1579,0.0002
+"Monroe County, Florida",FLORIDA,0.21,0.1,0.46,Moderate Concern,0.59,Moderate Concern,0.212,0.2433,0.0007,0.013,0.067,0.0015
+"Nassau County, Florida",FLORIDA,0.23,0.1,0.25,Low Concern,0.52,Moderate Concern,0.266,0.0431,0.0048,0.0102,0.0597,0
+"Okaloosa County, Florida",FLORIDA,0.23,0.1,0.39,Low Concern,0.64,High Concern,0.201,0.0926,0.0019,0.0295,0.0949,0.0009
+"Okeechobee County, Florida",FLORIDA,0.23,0.11,0.95,Very High Concern,0.9,Very High Concern,0.151,0.2551,0.0046,0.0096,0.0769,0.0026
+"Orange County, Florida",FLORIDA,0.2,0.09,0.67,High Concern,0.72,High Concern,0.147,0.3164,0.0012,0.0507,0.1979,0.0006
+"Osceola County, Florida",FLORIDA,0.2,0.1,0.82,Very High Concern,0.81,Very High Concern,0.14,0.5411,0.0022,0.0263,0.0927,0.0007
+"Palm Beach County, Florida",FLORIDA,0.18,0.08,0.56,Moderate Concern,0.52,Moderate Concern,0.227,0.2238,0.0008,0.0265,0.182,0.0002
+"Pasco County, Florida",FLORIDA,0.21,0.09,0.63,High Concern,0.58,Moderate Concern,0.17,0.1522,0.003,0.0254,0.0538,0.0006
+"Pinellas County, Florida",FLORIDA,0.19,0.08,0.52,Moderate Concern,0.58,Moderate Concern,0.207,0.097,0.0022,0.0333,0.0994,0.0009
+"Polk County, Florida",FLORIDA,0.22,0.1,0.9,Very High Concern,0.87,Very High Concern,0.139,0.2253,0.0028,0.0173,0.1468,0.0003
+"Putnam County, Florida",FLORIDA,0.23,0.1,0.95,Very High Concern,0.92,Very High Concern,0.138,0.0999,0.0039,0.0061,0.1601,0.0001
+"Santa Rosa County, Florida",FLORIDA,0.23,0.1,0.31,Low Concern,0.58,Moderate Concern,0.17,0.0557,0.0043,0.0194,0.0606,0.0016
+"Sarasota County, Florida",FLORIDA,0.17,0.07,0.25,Low Concern,0.33,Low Concern,0.244,0.0918,0.0011,0.0166,0.0432,0.0002
+"Seminole County, Florida",FLORIDA,0.18,0.08,0.18,Very Low Concern,0.46,Moderate Concern,0.169,0.2139,0.0018,0.0448,0.1096,0.0004
+"St. Johns County, Florida",FLORIDA,0.18,0.08,0.08,Very Low Concern,0.34,Low Concern,0.295,0.0695,0.0029,0.0264,0.0521,0.0008
+"St. Lucie County, Florida",FLORIDA,0.21,0.09,0.72,High Concern,0.73,High Concern,0.197,0.1897,0.003,0.02,0.1933,0.0008
+"Sumter County, Florida",FLORIDA,0.17,0.08,0.24,Low Concern,0.39,Low Concern,0.435,0.0574,0.0033,0.0084,0.0675,0.0008
+"Suwannee County, Florida",FLORIDA,0.26,0.12,0.94,Very High Concern,0.96,Very High Concern,0.16,0.0932,0.0009,0.0011,0.1273,0
+"Taylor County, Florida",FLORIDA,0.26,0.12,0.9,Very High Concern,0.96,Very High Concern,0.152,0.0645,0.0032,0.0034,0.1987,0
+"Union County, Florida",FLORIDA,0.26,0.12,0.84,Very High Concern,0.94,Very High Concern,0.111,0.0563,0.0076,0.0061,0.2174,0
+"Volusia County, Florida",FLORIDA,0.2,0.09,0.53,Moderate Concern,0.65,High Concern,0.2,0.1391,0.0029,0.0175,0.1042,0.0003
+"Wakulla County, Florida",FLORIDA,0.25,0.12,0.4,Moderate Concern,0.73,High Concern,0.184,0.0373,0.002,0.0052,0.1495,0
+"Walton County, Florida",FLORIDA,0.23,0.1,0.58,Moderate Concern,0.73,High Concern,0.179,0.0623,0.0044,0.0101,0.0461,0
+"Washington County, Florida",FLORIDA,0.23,0.1,0.89,Very High Concern,0.95,Very High Concern,0.116,0.0369,0.0135,0.0067,0.1497,0.0042
